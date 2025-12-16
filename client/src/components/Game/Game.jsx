@@ -1,4 +1,3 @@
-// client/src/components/Game/Game.jsx
 import { useState, useEffect, useRef } from "react";
 import Board from "./Board";
 import GameStatus from "./GameStatus";

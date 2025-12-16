@@ -1,4 +1,3 @@
-// client/src/components/PlayerSetup.jsx
 import { useState } from 'react';
 
 export default function PlayerSetup({ onPlayerSet }) {
